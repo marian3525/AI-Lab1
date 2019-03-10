@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marian/Documents/CS/AI/lab1_C++/headers/Problem.h
+State.h
+/home/marian/Documents/CS/AI/lab1_C++/headers/State.h
+vector
+-
+
+/home/marian/Documents/CS/AI/lab1_C++/headers/State.h
+utility
+-
+unordered_map
+-
+map
+-
+vector
+-
+
+/home/marian/Documents/CS/AI/lab1_C++/sources/Problem.cpp
+../headers/Problem.h
+/home/marian/Documents/CS/AI/lab1_C++/headers/Problem.h
+fstream
+-
+queue
+-
+algorithm
+-
+numeric
+-
+cmath
+-
+iostream
+-
+

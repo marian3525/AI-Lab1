@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab1_C__.dir/main.cpp.o CMakeFiles/lab1_C__.dir/sources/Controller.cpp.o CMakeFiles/lab1_C__.dir/sources/Problem.cpp.o CMakeFiles/lab1_C__.dir/sources/State.cpp.o CMakeFiles/lab1_C__.dir/sources/UI.cpp.o  -o lab1_C__ 
